@@ -1,0 +1,7 @@
+base sqcard
+author gomida
+email 
+date 2015-12-02
+name SquareCard Plugin
+display photos with square background
+url http://dokuwiki.org/plugin:info
